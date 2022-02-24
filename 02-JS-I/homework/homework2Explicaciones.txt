@@ -1,0 +1,14 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+
+Variables: Las variables son una dirección en la memoria de la computadora que almacenan un dato y de qué tipo es ese dato.
+Strings: Los strings son cadenas de caracteres. Pueden ser oraciones, nombres de personas e incluso números siempre y cuando estos esten encerrados entre comillas simples o comillas dobles. Los strings tienen métodos asociados, como por ejemplo el método .length().
+Funciones: Las funciones se declaran con la palabra reservada "function". Son fragmentos de código que pueden o no devolver un valor y que pueden ser llamados desde otra parte del programa para reutilizar el código que en ellas se ejecuta. Las mismas pueden recibir argumentos en su declaración, los mismos van entre paréntesis luego del nombre de la función y antes de las llaves que encierran su código. Pueden ser 1 o varios argumentos y van separados por comas. El return hace que la función devuelva un dato y una vez que se ejecuta, se termina la ejecución de la función.
+Declaraciones "if": Las declaraciones "if" se utilizan para crear "ramas" en la ejecución del código del programa. Si se cumple o no lo que el "if" evalúa, el código que encierra el mismo se ejecuta o no.
+Valores Booleanos: Los valores booleanos son un paralelismo con el código binario (1 y 0) y pueden ser true o false (verdadero o falso).  
