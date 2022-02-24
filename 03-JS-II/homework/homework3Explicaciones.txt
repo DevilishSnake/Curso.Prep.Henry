@@ -1,0 +1,9 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+* `&&`, `||`, `!`
+
+for: El for se utiliza para iterar o repetir la ejecución de un código una determinada cantidad de veces. Consta de 3 partes, la declaración e inicialización de una variable, una condición que deberá ser verdadera (true) para que se itere el for, y por último la operación que se realiza sobre la variable inicializada (puede ser suma o resta, por ejemplo). Luego, dentro de llaves, va todo el código que va a ejecutar el for.
+&&: Es un operador lógico que toma dos valores booleanos y devuelve true si ambos son true o false si uno de ellos es false.
+||: Es un operador lógico que toma dos valores booleanos y devuelve true si alguno de sus valores es true o false si ambos son false.
+!: Es un operador lógico que toma un valor booleano y lo niega (devuelve true si el valor es false o false si el valor es true)
