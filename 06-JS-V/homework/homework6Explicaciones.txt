@@ -1,0 +1,7 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `prototype`
+* _Constructors_ (de Clases)
+
+Prototype: El prototype es como una "clase maqueta" que tienen todos los objetos de javascript, de la cual heredan propiedades y métodos. Se puede acceder al prototype de un objeto mediante la propiedad .__proto__. Cuando un método o propiedad no se encuentra en un objeto, es buscado en el prototipo del cual hereda, y de no ser encontrado ahí, se busca en el siguiente prototipo. Esto se conoce como cadena de prototipos.
+Constructores: Los constructores de clases son métodos que sirven para inicializar un objeto que es instancia de dicha clase con métodos y atributos definidos para ese objeto.
