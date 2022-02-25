@@ -1,0 +1,5 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Arrays
+
+Arrays: Los arrays son arreglos de datos o listas que pueden estar vacíos o contener múltiples datos que no necesariamente deben ser del mismo tipo (puede contener strings, booleanos, numeros, null, undefined, funciones, otros arrays). Los arrays tienen varios elementos que pueden ser accedidos mediante su número de posición dentro del mismo. Esta comienza desde el número cero hasta N cantidad de elemntos. Los arrays poseen diferentes métodos que pueden ser length, push, pop, shift, unshift.
