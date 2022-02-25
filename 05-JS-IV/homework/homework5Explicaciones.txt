@@ -1,0 +1,13 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos
+	* Propiedades
+	* Métodos
+	* Bucle `for…in`
+	* Notación de puntos vs notación de corchetes
+
+Objetos: Todo en javascript es un objetos. Los mismos se declaran con un nombre de variable = {}. Contienen pares de clave-valor separados por coma en los cuales se pueden almacenar desde variables, funciones y hasta otros objetos. Para acceder a las propiedades y métodos de un objeto se lo hace mediante su nombre y entre corchetes y comillas el nombre de la clave a la cual queremos acceder. También se puede hacer mediante el nombre del objeto seguido de un punto.
+Propiedades: Son las variables que forman parte de un Objeto.
+Métodos: Son las funciones que forman parte de un Objeto.
+Bucle "for...in": Se utilizan para recorrer los pares clave-valor de un objeto. Se hace mediante for, un nombre de variable que nosotros queramos para recorrer las distinas claves del objeto, seguido de in y el nombre del objeto a recorrer.
+Notación de puntos vs Notación de corchetes: La notación de puntos es más fácil de utilizar que la de corchetes. Pero la de corchetes es más útil cuando se quiere pasar una variable, expresión, función que devuelve un valor o lo que sea en lugar del nombre de la clave a la cual queremos acceder para que se convierta en esa clave. Con la notación de puntos esto no es posible ya que directamente intenta acceder a lo que pasamos y nos arrojaría 'undefined'.
